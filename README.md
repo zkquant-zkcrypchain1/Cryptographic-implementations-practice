@@ -1,2 +1,4 @@
 # Cryptographic-implementations-practice
-Tried to implement cryptographic primitives,algos and several whitepapers which are relevant today
+- Tried solving cryptographic puzzles,ctf problems etc.
+-Tried to implement cryptographic primitives,algos
+-Tried to several classic and recent whitepapers which are relevant today
